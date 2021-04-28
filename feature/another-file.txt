@@ -5,3 +5,5 @@ This file was modified locally
 this line was added in feature-2 branch
 
 another mod in the feature02 branch
+
+edit in the feature-2 branch
